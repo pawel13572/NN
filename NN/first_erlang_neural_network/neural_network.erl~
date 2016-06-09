@@ -1,0 +1,2 @@
+-module(neural_network).
+-export([perceptron/3, sigmoid/1, do_prod/2, feed_forward/2, replace_input/2, convert_to_list/1]).
